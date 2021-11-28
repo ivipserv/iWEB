@@ -12,6 +12,6 @@ This is achieved by using intermediate slots which filter events, and by adding 
 	Download
 	<span>Latest version from GitHub</span>
 </a>
-
-Other Privact
+<h4> First Georgian Browser </h4>
+Other Privacy
 [Privacy Of Use](https://www.id.ivipserv.xyz/privacy)
