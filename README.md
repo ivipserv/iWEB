@@ -8,7 +8,7 @@ Adding tab support complicates the internals of the browser a bit, since we now 
 This is achieved by using intermediate slots which filter events, and by adding signal redirection (using lamba functions to keep it short).
 # ScreenShots
 ![iweb](https://www.pythonguis.com/examples/python-tabbed-web-browser/browser-tabbed-home.png)
-<a href='https://masterofphoenix.github.io/iWEB/' class='download-button'>
+<a href='https://github.com/masterofphoenix/iWEB/releases/download/0.5/Setup.exe' class='download-button'>
 	Download
 	<span>Latest version from GitHub</span>
 </a>
