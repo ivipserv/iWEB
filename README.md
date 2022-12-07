@@ -1,4 +1,4 @@
-# iWEB Formerly iVipServ Browser
+# WoG Go Browser Formerly iVipServ Browser
 iWeb is A Web Browser Based on Python And PyQt5 This is Experimental Version
 iVipServ WEB is the latest revolution in web browsing! Go back and forward! Print! Save files! Get help! (you’ll need it). Any similarity to other browsers is entirely coincidental.
 #Code notes
@@ -8,10 +8,9 @@ Adding tab support complicates the internals of the browser a bit, since we now 
 This is achieved by using intermediate slots which filter events, and by adding signal redirection (using lamba functions to keep it short).
 # ScreenShots
 ![iweb](https://www.pythonguis.com/examples/python-tabbed-web-browser/browser-tabbed-home.png)
-<a href='https://ivipserv.github.io/iWEB/' class='download-button'>
+<a href='https://masterofphoenix.github.io/iWEB/r' class='download-button'>
 	Download
 	<span>Latest version from GitHub</span>
 </a>
 <h4> First Georgian Browser </h4>
-Other Privacy
-[Privacy Of Use](https://www.id.ivipserv.xyz/privacy)
+
